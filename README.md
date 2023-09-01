@@ -9,7 +9,8 @@
 ---
 # 🍏 다이어그램
 <img src="https://github.com/KangJiHun1028/ToDoList-2-/assets/136081642/a3cae791-6412-4353-ac79-3639785f7d38" width="500" height="400"/>
-----
+
+---
 
 # 🍊 UI 화면 구성!
 
